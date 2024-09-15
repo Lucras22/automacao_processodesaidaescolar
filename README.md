@@ -1,7 +1,5 @@
 # Automação do processo de saída escolar utilizando robótica
 
-_______________________________________________________________________________________________________________________________________
-
 Título: Automação do Processo de Saída Escolar utilizando robótica.
 
 Introdução:
@@ -52,11 +50,17 @@ Durante a implementação desta fase, alguns desafios foram identificados, sendo
 Conclusão:
 A Fase Beta deste projeto de automação utilizando Arduino Uno demonstrou a viabilidade e potencial do sistema proposto para otimização do processo de liberação das turmas escolares. Por meio da ativação de LEDs, o sistema oferece uma abordagem mais eficiente e intuitiva para essa tarefa. As dificuldades enfrentadas no decorrer deste estágio serão abordadas na próxima fase, onde buscaremos aprimorar a solução, incluindo uma fonte de energia autônoma.
 
-(Inserir foto do projeto aqui)
+## Simulador Fase Beta
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000014-ec918ec91a/image.png?ph=babbf25fa0" alt="simulador beta" width="1000"/>
+
+## Prototipagem Fase Beta
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000020-505d9505da/prototipagem%20beta.png?_gl=1*11fdv2d*_gcl_au*MTMxMjMwNDAyNC4xNzIzOTk2NTIw" alt="proto beta" width="1000"/>
 
 Assinatura:
-(Nomes dos responsáveis pelo projeto)
-(Data)
+Lucas Galindo
+Emiliana Alves
 
 _______________________________________________________________________________________________________________________________________
 
@@ -105,11 +109,17 @@ Conclusão:
 
 A versão avançada do nosso projeto de automação do processo de saída escolar representa um passo significativo em direção a uma solução mais eficiente e versátil. Com a capacidade de controlar a liberação das turmas de forma intuitiva por meio de uma rede Wi-Fi local, estamos caminhando para eliminar a intervenção manual e otimizar o gerenciamento escolar. O próximo passo é implementar as melhorias planejadas para tornar o sistema ainda mais robusto e versátil.
 
-(Inserir foto do projeto aqui)
+## Simulador Fase Avançada
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000016-f3872f3875/simuladoresp32.png?_gl=1*z92lyy*_gcl_au*MTMxMjMwNDAyNC4xNzIzOTk2NTIw" alt="simulador Avançada" width="1000"/>
+
+## Prototipagem Fase Avançada
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000017-4e02a4e02c/esp32%20proto.png?_gl=1*1vaf87s*_gcl_au*MTMxMjMwNDAyNC4xNzIzOTk2NTIw" alt="proto Avançada" width="1000"/>
 
 Assinatura:
-(Nomes dos responsáveis pelo projeto)
-(Data)
+Lucas Galindo
+Emiliana Alves
 
 _______________________________________________________________________________________________________________________________________
 
@@ -146,8 +156,14 @@ Conclusão:
 
 A Fase Final do projeto demonstra um progresso significativo na automação do processo de saída escolar. Apesar dos desafios enfrentados, a transição para uma solução sem fio oferece uma perspectiva promissora. Estamos comprometidos em superar os obstáculos remanescentes, aprimorando o código e reintegrando a interface web, para alcançar uma solução robusta e eficiente que atenda às necessidades da escola.
 
-(Inserir foto do projeto aqui)
+## Simulador Fase Final
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000026-565585655b/imagem_2024-09-15_170539896.png?ph=babbf25fa0" alt="simulador Final" width="1000"/>
+
+## Prototipagem Fase Final
+
+<img src="https://babbf25fa0.cbaul-cdnwnd.com/ca777225d6fbd038fc560b5e3ff1f1e0/200000024-d5583d5585/fase%20final%20proto.png?ph=babbf25fa0" alt="proto Final" width="1000"/>
 
 Assinatura:
-(Nomes dos responsáveis pelo projeto)
-(Data)
+Lucas Galindo
+Emiliana Alves
